@@ -125,7 +125,7 @@ p{
       padding:5rem 1rem;
       align-items: left;
       justify-content: left;
-      position: fixed;
+      position: absolute;
 }
 .mobilenavcontainer{
   display: flex;
