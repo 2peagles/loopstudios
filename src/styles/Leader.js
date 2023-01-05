@@ -6,7 +6,7 @@ import { Typography } from "@mui/material";
 
 export const LeaderContainer = styled(Box)(() => ({
     // width: '450px',
-    height: '100vh',
+    height: '70vh',
     padding: '0',
     margin:'0',
     // border: `2rem solid ${Color.black}`,
