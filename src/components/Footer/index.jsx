@@ -13,7 +13,7 @@ const FooterSection= styled(Box)(()=>({
 export const Footer = () => {
   return (
     <FooterSection>
-      <Container maxWidth='xl' disableGutters>
+      <Container disableGutters>
         <Box padding='1.5rem 0'>
           <Stack 
             direction={{ xs: 'column', sm: 'row' }}

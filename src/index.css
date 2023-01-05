@@ -84,9 +84,9 @@ p{
 .fontfamilydesktop{
     position: absolute;
     color: white;
-    margin: -150px 50px;
+    margin: -130px 40px;
     width: 230px;
-    font-size: 2.8rem;
+    font-size: 2.6rem;
 }
 .gallerycontainer{
   min-height:100vh;

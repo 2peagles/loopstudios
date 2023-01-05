@@ -15,7 +15,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <Container disableGutters maxWidth='fluid'>
         <Hero />
-          <Container disableGutters maxWidth="xl">
+          <Container disableGutters maxWidth="lg">
             <Leader />
           <Gallery />
         </Container>

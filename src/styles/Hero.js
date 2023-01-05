@@ -4,6 +4,7 @@ import {Color} from "./theme";
 
 export const Container = styled(Box)(() => ({
     width: '75%',
+    maxWidth:'1200px',
     height: '100%',
     // border: `3px solid ${Color.white}`,
 }))
@@ -18,7 +19,7 @@ export const HeroContainer = styled(Box)(()=>({
     alignItems:'center',
     justifyContent:'center',
     width:'100%',  
-    height:'90vh',
+    height:'80vh',
     backgroundImage:`url('/images/desktop/image-hero.jpg') `,
     backgroundRepeat:'no-repeat',
     backgroundSize:'cover',
